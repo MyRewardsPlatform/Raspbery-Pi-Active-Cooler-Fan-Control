@@ -37,9 +37,8 @@ These instructions will help you get the fan controller up and running on your R
 1. Run the `fancontrol.sh` script with the following command:
 
 ``` bash
-   >
-   > bash fancontrol.sh
-   >
+    sudo chmod +x ./fancontrol.sh
+    sudo ./fancontrol.sh
 ```
 This will start the fan controller. The script will automatically adjust the fan speed based on the current temperature of the Raspberry Pi.
 
