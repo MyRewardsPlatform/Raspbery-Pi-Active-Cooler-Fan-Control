@@ -10,7 +10,7 @@
 ```
 ### Raspberry Pi 5 Active Cooler Fan Control
 
-Welcome to Raspi5-AC_fancontrol, a blast from the past and back to the future! 🕹️  
+Welcome to Raspi5-AC_fancontrol, a blast from a hot past and back a coool future! 🕹️  
 
 This groovy fan controller takes you back to the rad 1980s, where simplicity ruled and four speeds were all you needed to keep cool. 🌬️💨
 
