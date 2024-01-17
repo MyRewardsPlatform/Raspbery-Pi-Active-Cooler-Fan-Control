@@ -1,5 +1,7 @@
 #!/bin/bash
-# _____________________   __   ____________________   _____________________________ 
+# 
+<!---
+#_____________________   __   ____________________   _____________________________ 
 # ___  ____/__    |__  | / /   __  ____/_  __ \__  | / /__  __/__  __ \_  __ \__  / 
 # __  /_   __  /| |_   |/ /    _  /    _  / / /_   |/ /__  /  __  /_/ /  / / /_  /  
 # _  __/   _  ___ |  /|  /     / /___  / /_/ /_  /|  / _  /   _  _, _// /_/ /_  /___
@@ -8,7 +10,8 @@
 # Raspi5 Active Cooler Fan Control 
 # Specifically made for Raspberry Pi 5 Active Cooler and heat sink
 # Timothy McGuckin
-# GNU, no claims, enjoy!       
+# GNU, no claims, enjoy!   
+-->    
 
 temp=$(/usr/bin/vcgencmd measure_temp  | grep -o '[0-9]*\.[0-9]*')
 
